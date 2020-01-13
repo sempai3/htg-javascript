@@ -12,9 +12,8 @@ function obtenerMenoresQue30(numeros) {
 
   for (let indice = 0; indice < numeros.length; indice++) {
     if (numeros[indice] < 30) {
-      resultado.push(numeros[i]);
-    } else {
-      i++;
+      resultado.push(numeros[indice]);
+    
     }
   }
 
@@ -27,7 +26,10 @@ Reparar la función de modo que dada una lista de nombres, devuelva los nombres 
 Todo estaría bien si:
 Caso 1: Al llamar la función de ésta manera: obtenerNombresSeparadosPorComa(['Diego','Kike', 'Maru', 'Sebas']) devuelve algo así: 'Diego, Kike, Maru, Sebas'
 Caso 2: Al llamar la función de ésta manera: obtenerNombresSeparadosPorComa([]) devuelve un array así: ''
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9491a5c3b3c6c6df2ddd6f08a3469b301e284173
 */
 
 function obtenerNombresSeparadosPorComa(listaNombres){
