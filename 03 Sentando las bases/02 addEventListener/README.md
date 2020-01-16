@@ -15,7 +15,7 @@ Para éstos ejercicios se compone de otros ejercicios que no son sólo técnicos
 Identificá y listá tres problemáticas de tu barrio, vecindario o familia.
 
 ### Ejercicio 2
-
+https://github.com/sempai3/htg-javascript.git
 #### ¿Por qué existe ese problema?
 
 Elegí una de las problemáticas que identificaste y pensá causas que la generen. ¿Por qué ocurren? ¿qué personas intervienen?
